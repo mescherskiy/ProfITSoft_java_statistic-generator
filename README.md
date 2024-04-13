@@ -104,6 +104,8 @@ Then execute it like this: java -jar jar-filename.jar path-to-directory-with-JSO
 java -jar target/profitsoft_block1-1.0-SNAPSHOT-jar-with-dependencies.jar target/classes/normal_folder genre
 ```
 
+Another option - is to Main.main() right in the IDE by clicking button RUN. In this case you need to add path-to-directory and attribute-name as arguments to the app.    
+
 ### Experiments with Threads
 The project implements parallel file processing using multithreading. Experiments were conducted to measure the execution time with different numbers of threads.
 
