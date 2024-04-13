@@ -94,7 +94,15 @@ The program generates XML files containing statistics for the specified attribut
 ```
 
 ### Run
-To start the project run `Main.main()`
+First package the project into jar-file
+```
+mvn package
+```
+
+Then execute it like this: java -jar jar-filename.jar path-to-directory-with-JSON-files attribute-name. There is test folders in resources which you might use.
+```
+java -jar target/profitsoft_block1-1.0-SNAPSHOT-jar-with-dependencies.jar target/classes/normal_folder genre
+```
 
 ### Experiments with Threads
 The project implements parallel file processing using multithreading. Experiments were conducted to measure the execution time with different numbers of threads.
