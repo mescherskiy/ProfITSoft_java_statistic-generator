@@ -1,0 +1,112 @@
+ [
+    {
+      "title": "They Shall Not Grow Old",
+      "year": 2018,
+      "rated": "R",
+      "released": "01 Feb 2019",
+      "runtime": "99 min",
+      "genre": "Documentary, History, War",
+      "director": "Peter Jackson",
+      "writer": "Peter Jackson",
+      "actors": "Mark Kermode, Peter Jackson"
+    },
+    {
+      "title": "Midnight Family",
+      "year": 2019,
+      "rated": "N/A",
+      "released": "06 Dec 2019",
+      "runtime": "81 min",
+      "genre": "Documentary, Action, Crime, Drama",
+      "director": "Luke Lorentzen",
+      "writer": "Luke Lorentzen",
+      "actors": "Fer Ochoa, Josue Ochoa, Juan Ochoa"
+    },
+    {
+      "title": "Pain & Gain",
+      "year": 2013,
+      "rated": "R",
+      "released": "26 Apr 2013",
+      "runtime": "129 min",
+      "genre": "Action, Comedy, Crime, Drama",
+      "director": "Michael Bay",
+      "writer": "Christopher Markus (screenplay), Stephen McFeely (screenplay), Pete Collins (based on the magazine articles by)",
+      "actors": "Mark Wahlberg, Dwayne Johnson, Anthony Mackie, Tony Shalhoub"
+    },
+    {
+      "title": "The Irishman",
+      "year": 2019,
+      "rated": "R",
+      "released": "27 Nov 2019",
+      "runtime": "209 min",
+      "genre": "Biography, Crime, Drama",
+      "director": "Martin Scorsese",
+      "writer": "Steven Zaillian (screenplay), Charles Brandt (book)",
+      "actors": "Robert De Niro, Al Pacino, Joe Pesci, Harvey Keitel"
+    },
+    {
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019,
+      "rated": "R",
+      "released": "26 Jul 2019",
+      "runtime": "161 min",
+      "genre": "Comedy",
+      "director": "Quentin Tarantino",
+      "writer": "Quentin Tarantino",
+      "actors": "Leonardo DiCaprio, Brad Pitt, Margot Robbie, Emile Hirsch"
+    },
+    {
+      "title": "Marriage Story",
+      "year": 2019,
+      "rated": "R",
+      "released": "06 Dec 2019",
+      "runtime": "137 min",
+      "genre": "Comedy, Drama, Romance",
+      "director": "Noah Baumbach",
+      "writer": "Noah Baumbach",
+      "actors": "Adam Driver, Scarlett Johansson, Julia Greer, Azhy Robertson"
+    },
+    {
+      "title": "Little Women",
+      "year": 1994,
+      "rated": "PG",
+      "released": "25 Dec 1994",
+      "runtime": "115 min",
+      "genre": "Drama, Family, Romance",
+      "director": "Gillian Armstrong",
+      "writer": "Louisa May Alcott (novel), Robin Swicord (screenplay)",
+      "actors": "Winona Ryder, Gabriel Byrne, Trini Alvarado, Samantha Mathis"
+    },
+    {
+      "title": "Parasite",
+      "year": 2019,
+      "rated": "R",
+      "released": "08 Nov 2019",
+      "runtime": "132 min",
+      "genre": "Comedy, Drama, Thriller",
+      "director": "Bong Joon Ho",
+      "writer": "Bong Joon Ho (story), Bong Joon Ho (screenplay), Bong Joon Ho (story by), Jin Won Han (screenplay)",
+      "actors": "Kang-ho Song, Sun-kyun Lee, Yeo-jeong Jo, Woo-sik Choi"
+    },
+    {
+      "title": "Knives Out",
+      "year": 2019,
+      "rated": "PG-13",
+      "released": "27 Nov 2019",
+      "runtime": "130 min",
+      "genre": "Comedy, Crime, Drama, Mystery, Thriller",
+      "director": "Rian Johnson",
+      "writer": "Rian Johnson",
+      "actors": "Daniel Craig, Chris Evans, Ana de Armas, Jamie Lee Curtis"
+    },
+    {
+      "title": "Dolemite Is My Name",
+      "year": 2019,
+      "rated": "R",
+      "released": "25 Oct 2019",
+      "runtime": "118 min",
+      "genre": "Biography, Comedy, Drama",
+      "director": "Craig Brewer",
+      "writer": "Scott Alexander, Larry Karaszewski",
+      "actors": "Eddie Murphy, Keegan-Michael Key, Mike Epps, Craig Robinson"
+    }
+  ]
